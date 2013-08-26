@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+<html>
+<head ng-app>
+	<title>Good Shepherd Pre-Primary School</title>
+	<script type="text/javascript" src="lib/angular.min.js"></script>
+</head>
+<body>
+	<div class="container-fluid">
+		<nav>
+			<ul>
+				<li>About Us</li>
+				<li>Facilities</li>
+				<li>Admissions</li>
+				<li>Information</li>
+				<li>Contact Us</li>			
+			</ul>		
+		</nav>
+		<header>
+			<h1>Good Shepherd School</h1>		
+		</header>
+</body>
+</html>
